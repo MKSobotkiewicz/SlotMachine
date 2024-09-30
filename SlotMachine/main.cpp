@@ -3,7 +3,6 @@
 #include <time.h>
 #include "Slot.h"
 #include "Symbol.h"
-#include "Symbols.h"
 #include "Payline.h"
 #include "SlotMachine.h"
 
